@@ -13,3 +13,7 @@ Welcome to my **Frontend Projects** repository! This collection includes a varie
   All projects are **live on GitHub Pages**, with direct links below for both demos and source code. No local setup required — just click and explore!
 
 **June month Practice work**  [live Link](https://code-eagl.github.io/June-Fruntend/)  and [Repo Link](https://github.com/Code-Eagl/June-Fruntend.git)
+**Web Project 1**  [live Link](https://code-eagl.github.io/image-search-app/image%20search%20app/)  and [Repo Link](https://github.com/Code-Eagl/image-search-app.git)
+**Web project 2**  [live Link](https://code-eagl.github.io/frontend-project-1/)  and [Repo Link](https://github.com/Code-Eagl/frontend-project-1.git)
+
+
