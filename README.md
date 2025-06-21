@@ -18,6 +18,6 @@ Welcome to my **Frontend Projects** repository! This collection includes a varie
 
 **Web project 2**  [live Link](https://code-eagl.github.io/frontend-project-1/)  and [Repo Link](https://github.com/Code-Eagl/frontend-project-1.git)
 
-**web Project 3**  [Live Link](https://code-eagl.github.io/CSS_Animation/)
+**web Project 3**  [Live Link](https://code-eagl.github.io/CSS_Animation/)  and [Repo Link](https://github.com/Code-Eagl/CSS_Animation.git)
 
 
